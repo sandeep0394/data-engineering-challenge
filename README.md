@@ -40,5 +40,13 @@ to name a few
 > 💡 **Tip:** Creativity in your data gathering approach and depth in your analysis will be rewarded. Think of this as a mini end-to-end data engineering + analysis challenge.
 
 ## Connect with Us:
-Reach out to **careers@slooze.xyz** to submit your solutions or if you may have any questions related to the challenege
+
+Reach out to **[careers@slooze.xyz](mailto:careers@slooze.xyz)** to submit your solutions or if you may have any questions related to the challenege
+
+## © Copyright Notice
+
+**© Slooze. All Rights Reserved.**
+
+Please do not share or distribute this material outside the intended evaluation process.  
+For queries, contact us !!
 
