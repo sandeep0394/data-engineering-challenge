@@ -34,9 +34,10 @@ to name a few
 - 🧠 Insights or hypotheses based on your findings
 
 ---
-## Submission
-- Submit your code ( crawler, EDA ), datasets collected, any data dictionary or presentation files as you see fit for the submission, in a git repo or a drive
-  
+## 📤 Submission
+- Upload your code ( crawling, ETL, EDA and similar others) to GitHub or share as zip file
+- Include instructions to run the code locally (e.g., python3, django)
+
 > 💡 **Tip:** Creativity in your data gathering approach and depth in your analysis will be rewarded. Think of this as a mini end-to-end data engineering + analysis challenge.
 
 ## Connect with Us:
