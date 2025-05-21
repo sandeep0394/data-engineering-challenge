@@ -1,4 +1,4 @@
-![Logo](./public/FFFF-1.png)
+![Logo](./public/FFFFFF-1.png)
 # Slooze take home challenge data-engineering
 
 # 📌 Problem Statement
