@@ -19,3 +19,10 @@ This solution scrapes product listings from Alibaba's Industrial Machinery categ
 - Insightful visualizations and summary
 
 ## How to Run
+TO RUN PART A 
+cd scraper
+python scraper_playwright.py
+
+TO RUN PART B
+cd analysis
+python eda_analysis.py
